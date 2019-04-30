@@ -107,11 +107,11 @@
 /* Page theming */
 body {
   margin: 0;
-  padding: 0;
+  padding: 8px;
 }
 
 .section {
-  padding: 8px;
+  margin-bottom: 16px;
 }
 
 .config {
